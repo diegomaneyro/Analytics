@@ -1,7 +1,4 @@
-## Reporte
-<p align='center'>
-<img src = '' height = 200>
-<p>
+## Reporte :bar_chart:
 
 
 1. La mayoría de las variables numéricas del conjunto de datos están altamente correlacionadas, lo que indica que los movimientos de los precios y los volúmenes están estrechamente relacionados.
