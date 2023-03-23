@@ -30,4 +30,3 @@
 3. En el gráfico de dispersión, se puede observar que hay varios valores atípicos con un alto volumen de operaciones, lo que sugiere que hubo un gran interés en estas acciones durante esos días. Estos valores atípicos pueden ser el resultado de eventos como la publicación de noticias importantes o la especulación del mercado sobre un próximo anuncio importante.
 
 
->En general, es importante tener en cuenta los valores atípicos al analizar los datos de la lista índice S&P500. Si bien pueden ser indicativos de eventos interesantes o significativos en el mercado financiero, también pueden ser el resultado de errores de entrada de datos o fluctuaciones aleatorias en el mercado. Al evaluar los valores atípicos, es importante considerar tanto la causa potencial como la magnitud del valor atípico en relación con el resto de los datos.
