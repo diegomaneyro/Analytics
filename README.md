@@ -17,5 +17,5 @@
 #### **EDA Y REPORTE**
 [link](https://github.com/diegomaneyro/Analytics/blob/main/EDA)
 
-* Utilice la libreria yfinance de python para ingestar el archivo csv con los datos del indice SP500, se filtro inicialmente los registros posteriores al año 2000.
-* Luego de la exploracion de datos, realice visualizaciones con matplotlib y seaborn de python, para buscar correlacion de variables
+* Utilizando la libreria yfinance de python se ingesta el archivo csv con los datos del indice SP500, se filtro inicialmente los registros posteriores al año 2000.
+* Luego de la exploracion de datos inicial de los datos, se visualiza con matplotlib y seaborn de python, para buscar correlación de variables, outliers y datos atipicos asi como patrones y tendencias.
