@@ -22,6 +22,6 @@
 > Luego de la exploracion de datos inicial de los datos, se visualiza con matplotlib y seaborn de python, para buscar correlación de variables, outliers y datos atipicos asi como patrones y tendencias.
 
 `Analisis de riesgo`:
-[link](https://github.com/diegomaneyro/Analytics/blob/main/Anlisis_Riesgo)
+[link](https://github.com/diegomaneyro/Analytics/tree/main/An%C3%A1isis%20de%20Riesgo)
 
 > Analisis sobre tres empresas elegidas para observar los movimientos financieros, se desarrolla un Analisis de Riesgo para futura inversion: Apple, Microsoft y Amazon.  
