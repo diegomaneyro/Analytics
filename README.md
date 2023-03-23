@@ -15,4 +15,7 @@
 > En consecuencia, una posible conclusión es que la pandemia del COVID-19 tuvo un impacto significativo en el mercado financiero y en la lista índice S&P500. El mercado experimentó una gran volatilidad y la recuperación ha sido inestable. Como resultado, es importante tener en cuenta los riesgos asociados con las inversiones financieras, ya que eventos imprevistos como una pandemia pueden tener un impacto significativo en el mercado y en las inversiones.
 
 #### **EDA Y REPORTE**
-[link](https://github.com/diegomaneyro/Analytics/blob/main/EDA/Analytics_EDA)
+[link](https://github.com/diegomaneyro/Analytics/blob/main/EDA)
+
+* Utilice la libreria yfinance de python para ingestar el archivo csv con los datos del indice SP500, se filtro inicialmente los registros posteriores al año 2000.
+* Luego de la exploracion de datos, realice visualizaciones con matplotlib y seaborn de python, para buscar correlacion de variables
