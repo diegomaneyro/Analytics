@@ -13,3 +13,6 @@
 > Si comparamos el comportamiento del índice S&P500 en los años previos al COVID-19 con el comportamiento durante la pandemia, podemos observar una diferencia significativa. Antes de la pandemia, el índice S&P500 mostraba una tendencia alcista estable, con fluctuaciones normales en el corto plazo. Sin embargo, a partir de marzo de 2020, el índice experimentó una fuerte caída, seguida de una recuperación rápida y volátil.
 
 > En consecuencia, una posible conclusión es que la pandemia del COVID-19 tuvo un impacto significativo en el mercado financiero y en la lista índice S&P500. El mercado experimentó una gran volatilidad y la recuperación ha sido inestable. Como resultado, es importante tener en cuenta los riesgos asociados con las inversiones financieras, ya que eventos imprevistos como una pandemia pueden tener un impacto significativo en el mercado y en las inversiones.
+
+#### **EDA Y REPORTE**
+[link](https://github.com/diegomaneyro/Analytics/blob/main/EDA/Analytics_EDA)
