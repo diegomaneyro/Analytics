@@ -3,3 +3,13 @@
 <p align="center">
 <img src="https://github.com/diegomaneyro/Analytics/blob/main/Analytics.jpeg"  height=300>
 </p>
+
+
+
+### Impacto del COVID-19 en el mercado financiero y en la lista índice S&P500
+
+> Es cierto que la pandemia del COVID-19 tuvo un impacto significativo en los mercados financieros en todo el mundo, incluyendo la lista índice S&P500. En particular, a principios de 2020, el mercado sufrió una gran caída en el precio de las acciones debido a la incertidumbre causada por la pandemia.
+
+> Si comparamos el comportamiento del índice S&P500 en los años previos al COVID-19 con el comportamiento durante la pandemia, podemos observar una diferencia significativa. Antes de la pandemia, el índice S&P500 mostraba una tendencia alcista estable, con fluctuaciones normales en el corto plazo. Sin embargo, a partir de marzo de 2020, el índice experimentó una fuerte caída, seguida de una recuperación rápida y volátil.
+
+> En consecuencia, una posible conclusión es que la pandemia del COVID-19 tuvo un impacto significativo en el mercado financiero y en la lista índice S&P500. El mercado experimentó una gran volatilidad y la recuperación ha sido inestable. Como resultado, es importante tener en cuenta los riesgos asociados con las inversiones financieras, ya que eventos imprevistos como una pandemia pueden tener un impacto significativo en el mercado y en las inversiones.
