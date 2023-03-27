@@ -12,4 +12,4 @@ Se aplicaron distintos KPIs:
 
 Tambien se uso como indicador la desviación estándar de los precios de cierre de las acciones, para cada empresa en el periodo posterior al año 2000.
 
-* Recomendación de inversión: Teniendo en cuenta los resultados de los kpi, y los indicadores de la empresa, se recomienda la inversion en la empresa: **Apple**   
+* Recomendación de inversión: Teniendo en cuenta los resultados de los kpi, y los indicadores de la empresa, se recomienda la inversion en la empresa: **Apple** el día **Miercoles**  
