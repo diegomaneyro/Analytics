@@ -24,4 +24,14 @@
 `Analisis de riesgo`:
 [link](https://github.com/diegomaneyro/Analytics/tree/main/An%C3%A1isis%20de%20Riesgo)
 
-> Analisis sobre cuatro empresas elegidas para observar los movimientos financieros, se desarrolla un Analisis de Riesgo para futura inversion: Apple, Microsoft, Amazon y Google.  
+> Analisis sobre cuatro empresas elegidas para observar los movimientos financieros, se desarrolla un Analisis de Riesgo para futura inversion: Apple, Microsoft, Amazon y Google.
+
+`Analisis de crecimiento`:
+[link](https://github.com/diegomaneyro/Analytics/blob/main/An%C3%A1lisis%20de%20Crecimiento/An%C3%A1lisis_crecimiento.ipynb)
+
+> Análisis de crecimiento de cada empresa elejida para la recomendación de inversión
+
+`Recomendación: Empresa y día`:
+[link](https://github.com/diegomaneyro/Analytics/blob/main/An%C3%A1lisis%20de%20Crecimiento/readme.md)
+
+> Se recomienda una empresa en base al análisis por empresa y la recomendación del día par la inversión
