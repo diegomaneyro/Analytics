@@ -24,4 +24,4 @@
 `Analisis de riesgo`:
 [link](https://github.com/diegomaneyro/Analytics/tree/main/An%C3%A1isis%20de%20Riesgo)
 
-> Analisis sobre tres empresas elegidas para observar los movimientos financieros, se desarrolla un Analisis de Riesgo para futura inversion: Apple, Microsoft y Amazon.  
+> Analisis sobre cuatro empresas elegidas para observar los movimientos financieros, se desarrolla un Analisis de Riesgo para futura inversion: Apple, Microsoft, Amazon y Google.  
