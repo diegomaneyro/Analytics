@@ -19,7 +19,7 @@
 [link](https://github.com/diegomaneyro/Analytics/blob/main/EDA)
 
 > Utilizando la libreria yfinance de python se ingesta el archivo csv con los datos del indice SP500, se filtro inicialmente los registros posteriores al año 2000.
-> Luego de la exploracion de datos inicial de los datos, se visualiza con matplotlib y seaborn de python, para buscar correlación de variables, outliers y datos atipicos asi como patrones y tendencias.
+> Luego de la exploracion de datos inicial, se visualiza con matplotlib y seaborn de python, para buscar correlación de variables, outliers y datos atipicos asi como patrones y tendencias.
 
 `Analisis de riesgo`:
 [link](https://github.com/diegomaneyro/Analytics/tree/main/An%C3%A1isis%20de%20Riesgo)
