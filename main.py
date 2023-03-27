@@ -13,6 +13,7 @@ $$
 
 pip install --upgrade yfinance
 # Importar librerias necesarias
+import streamlit as st
 import yfinance as yf
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -24,7 +25,7 @@ tickers = ['AMZN', 'AAPL', 'GOOGL', 'MSFT']
 start_date = '2000-01-01'
 
 df = yf.download(tickers, start=start_date, group_by='ticker')
-df.describe()
+st.df.describe()
 
 """## Analisis financiero por Empresa
 
