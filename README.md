@@ -36,6 +36,7 @@
 
 > Se recomienda una empresa en base al análisis por empresa y la recomendación del día par la inversión
 
-`Dashboard: reporte de power bi`:
+`Dashboard:`:
 [link](https://github.com/diegomaneyro/Analytics/blob/main/reporte)
 
+> Reporte de power bi de un historico del indice SP500 para los años posterior al 2000, y observacion de empresas especificas para posterior recomendacion de invesion, visualizando, precios de apertura, cierre, precios ajustados, desviacion estandar, filtrado por mes año y empresa
