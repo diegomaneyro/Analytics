@@ -35,3 +35,7 @@
 [link](https://github.com/diegomaneyro/Analytics/blob/main/An%C3%A1lisis%20de%20Crecimiento/readme.md)
 
 > Se recomienda una empresa en base al análisis por empresa y la recomendación del día par la inversión
+
+`Dashboard: reporte de power bi`:
+[link](https://github.com/diegomaneyro/Analytics/blob/main/reporte)
+
