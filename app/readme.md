@@ -1,1 +1,1 @@
-### Pagina en Streamlit [link](https://diegomaneyro-analytics-appmain-wmh7qy.streamlit.app/)
+### :pushpin: Pagina en Streamlit :cloud:[link](https://diegomaneyro-analytics-appmain-wmh7qy.streamlit.app/)
