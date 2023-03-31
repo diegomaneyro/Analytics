@@ -81,6 +81,7 @@ Mientras, los martes se logran de media subidas del 0,05%, lo que anualizado imp
 
 👉 Análisis de Crecimiento por empresa
 Se aplicaron distintos KPIs:
+
 📌 KPI Volatilidad
 
 📌 KPI Margen bruto de beneficios
