@@ -53,8 +53,11 @@ Se recomienda una empresa en base al análisis por empresa y la recomendación d
 
 `Dashboard:`:
 
- Reporte de power bi de un historico del indice SP500 para los años posterior al 2000, y observacion de empresas especificas para posterior recomendacion de invesion, visualizando, precios de apertura, cierre, precios ajustados, desviacion estandar, filtrado por mes año y empresa
+ Reporte de power bi de un historico del indice SP500 para los años posterior al 2000, y observacion de empresas especificas para posterior recomendacion de invesion, visualizando, precios de apertura, cierre, precios ajustados, desviacion estandar, filtrado por año y empresa
+ 
+`Storytelling:`:
 
+Presentación en power point, resumen del proyecto.
 
 
 ### Que día de la semana conviene invertir en bolsa::rocket::rocket::rocket::moneybag::moneybag:
