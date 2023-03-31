@@ -1,7 +1,7 @@
 
-## Autor
+## Autor: Diego Maneyro
 
--Linkedin [diego maneyro](https://www.linkedin.com/in/diego-maneyro/)
+- [Linkedin](https://www.linkedin.com/in/diego-maneyro/)
 
 
 # Análisis de Indice SP500 Mercado Bursatil
