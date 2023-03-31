@@ -31,32 +31,27 @@ En consecuencia, una posible conclusión es que la pandemia del COVID-19 tuvo un
 
 
 `EDA Y REPORTE`:
-[link](https://github.com/diegomaneyro/Analytics/blob/main/EDA)
 
  Utilizando la libreria yfinance de python se ingesta el archivo csv con los datos del indice SP500, se filtro inicialmente los registros posteriores al año 2000.
  Luego de la exploracion de datos inicial, se visualiza con matplotlib y seaborn de python, para buscar correlación de variables, outliers y datos atipicos asi como patrones y tendencias.
 
 
 `Analisis de riesgo`:
-[link](https://github.com/diegomaneyro/Analytics/tree/main/An%C3%A1isis%20de%20Riesgo)
 
- Analisis sobre cuatro empresas elegidas del indice NASDAQ para observar los movimientos financieros, se desarrolla un Analisis de Riesgo para futura inversion: Apple, Microsoft, Amazon y Google.
+Analisis sobre cuatro empresas elegidas del indice NASDAQ para observar los movimientos financieros, se desarrolla un Analisis de Riesgo para futura inversion: Apple, Microsoft, Amazon y Google.
 
 
 `Analisis de crecimiento`:
-[link](https://github.com/diegomaneyro/Analytics/blob/main/An%C3%A1lisis%20de%20Crecimiento/An%C3%A1lisis_crecimiento.ipynb)
 
  Análisis de crecimiento de cada empresa elejida para la recomendación de inversión
 
 
 `Recomendación: Empresa y día`:
-[link](https://github.com/diegomaneyro/Analytics/blob/main/An%C3%A1lisis%20de%20Crecimiento/readme.md)
 
 
 Se recomienda una empresa en base al análisis por empresa y la recomendación del día par la inversión
 
 `Dashboard:`:
-[link](https://github.com/diegomaneyro/Analytics/blob/main/reporte)
 
  Reporte de power bi de un historico del indice SP500 para los años posterior al 2000, y observacion de empresas especificas para posterior recomendacion de invesion, visualizando, precios de apertura, cierre, precios ajustados, desviacion estandar, filtrado por mes año y empresa
 
