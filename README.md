@@ -7,7 +7,7 @@
 - [Trello](https://trello.com/invite/b/75ES6knj/ATTIdf4e4bbf1d79f50c45074229189d2ef0BF220EBE/proyectoanalytics)
 
 ## Diagrama de Gantt:
-- [Escala de Tiempo]()
+- [Escala de Tiempo](https://github.com/diegomaneyro/Analytics/blob/main/reporte/diagrama_gantt.xlsx)
 
 # Análisis de Indice SP500 Mercado Bursatil
 
