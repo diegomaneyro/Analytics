@@ -3,7 +3,11 @@
 
 - [Linkedin](https://www.linkedin.com/in/diego-maneyro/)
 
+## Scrum Tablero: 
+- [Trello](https://trello.com/invite/b/75ES6knj/ATTIdf4e4bbf1d79f50c45074229189d2ef0BF220EBE/proyectoanalytics)
 
+## Diagrama de Gantt:
+- [Escala de Tiempo]()
 
 # Análisis de Indice SP500 Mercado Bursatil
 
