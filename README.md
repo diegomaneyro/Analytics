@@ -8,6 +8,8 @@
 
 ## Diagrama de Gantt:
 - [Escala de Tiempo](https://github.com/diegomaneyro/Analytics/blob/main/reporte/diagrama_gantt.xlsx)
+<img src="https://github.com/diegomaneyro/Analytics/blob/main/imagenes/gantt.PNG"  height=300>
+
 
 # Análisis de Indice SP500 Mercado Bursatil
 
