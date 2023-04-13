@@ -3,14 +3,6 @@
 
 - [Linkedin](https://www.linkedin.com/in/diego-maneyro/)
 
-## Scrum Tablero: 
-- [Trello](https://trello.com/invite/b/75ES6knj/ATTIdf4e4bbf1d79f50c45074229189d2ef0BF220EBE/proyectoanalytics)
-
-## Diagrama de Gantt:
-- [Escala de Tiempo](https://github.com/diegomaneyro/Analytics/blob/main/reporte/diagrama_gantt.xlsx)
-<img src="https://github.com/diegomaneyro/Analytics/blob/main/imagenes/gantt.PNG"  height=300>
-
-
 # Análisis de Indice SP500 Mercado Bursatil
 
 <h1 align=center> Analytics </h1>
@@ -100,4 +92,11 @@ Se aplicaron distintos KPIs:
 Tambien se uso como indicador la desviación estándar de los precios de cierre de las acciones, para cada empresa en el periodo posterior al año 2000.
 Recomendación de inversión: Teniendo en cuenta los resultados de los kpi, y los indicadores de la empresa, se recomienda la inversion en la empresa: Apple el día Miercoles
 
+
+## Scrum Tablero: 
+- [Trello](https://trello.com/invite/b/75ES6knj/ATTIdf4e4bbf1d79f50c45074229189d2ef0BF220EBE/proyectoanalytics)
+
+## Diagrama de Gantt:
+- [Escala de Tiempo](https://github.com/diegomaneyro/Analytics/blob/main/reporte/diagrama_gantt.xlsx)
+<img src="https://github.com/diegomaneyro/Analytics/blob/main/imagenes/gantt.PNG"  height=300>
 
