@@ -40,7 +40,7 @@ En consecuencia, una posible conclusión es que la pandemia del COVID-19 tuvo un
 
 `Analisis de riesgo`:
 
-Analisis sobre cuatro empresas elegidas del indice NASDAQ para observar los movimientos financieros, se desarrolla un Analisis de Riesgo para futura inversion: Apple, Microsoft, Amazon y Google.
+Analisis sobre cuatro empresas elegidas del indice para observar los movimientos financieros, se desarrolla un Analisis de Riesgo para futura inversion: Apple, Microsoft, Amazon y Google.
 
 
 `Analisis de crecimiento`:
