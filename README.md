@@ -62,7 +62,7 @@ Se recomienda una empresa en base al análisis por empresa y la recomendación d
 Presentación en power point, resumen del proyecto.
 
 
-### Que día de la semana conviene invertir en bolsa::rocket::rocket::rocket::moneybag::moneybag:
+### Que día de la semana conviene invertir en bolsa
 
 :bangbang:
 El **lunes** es historicamente el peor dia de la semana para invertir.Según un estudio de LPL Financial, el retorno medio del S&P 500 entre 1928 y 2017 durante los lunes es del -0,08%, el peor día de la semana con diferencia. Anualizando la rentabilidad que ofrecería invertir solo el primer día de la semana en el selectivo norteamericano se produciría una caída del 20%. Además, el 52% de los lunes acaban en rojo. 
