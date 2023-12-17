@@ -3,7 +3,9 @@
 
 - [Linkedin](https://www.linkedin.com/in/diego-maneyro/)
 
- En este repositorio encontrara un proyecto de Data Analytics del mercado bursatil, enfocandome en el indice sp-500, buscando patrones y tendencias en las acciones de las diferentes empresas y sectores de inversión, analizando el contexto global y el impacto de la pandemia en la economia mundial, genéro al finalizar el analisis, un reporte de inversion, área y empresa recomendada y el dia mas adecuaddo para iniciar un inversion a corto plazo.
+ "En este repositorio, se encuentra un proyecto de Análisis de Datos del mercado bursátil, con un enfoque específico en el índice S&P 500. Mi objetivo principal es identificar patrones y tendencias en las acciones de diversas empresas. A lo largo del análisis, se examina el contexto global y se evalúa el impacto de la pandemia en la economía mundial.
+
+Como resultado de este estudio, se genera un informe de inversión que incluye recomendaciones para áreas específicas y empresas. Además, se identifica el día más propicio para iniciar una inversión a corto plazo. Este informe ofrece una visión integral y detallada para respaldar decisiones informadas en el complejo mundo del mercado financiero."
 
 # Análisis de Indice SP500 Mercado Bursatil
 
