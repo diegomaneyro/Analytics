@@ -7,7 +7,7 @@
 
 Como resultado de este estudio, se genera un informe de inversión que incluye recomendaciones para áreas específicas y empresas. Además, se identifica el día más propicio para iniciar una inversión a corto plazo. Este informe ofrece una visión integral y detallada para respaldar decisiones informadas en el complejo mundo del mercado financiero."
 
-# Análisis de Indice SP500 Mercado Bursatil
+# Análisis de Indice S&P 500 Mercado Bursatil
 
 <h1 align=center> Analytics </h1>
 </br>
